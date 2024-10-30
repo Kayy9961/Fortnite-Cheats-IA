@@ -1,3 +1,5 @@
+No me hago responsable si puede llegar a ser banebale o de cualquier cosa, si lo utilizas es a tu propio riesgo
+
 ![image](https://github.com/user-attachments/assets/075736e6-0314-4154-a907-efce231db19c)
 
 1. Instala [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
