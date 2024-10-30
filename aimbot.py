@@ -274,10 +274,6 @@ def on_release(key):
         toggle_overlay()
 
 if __name__ == "__main__":
-    # Iniciar el overlay de forma opcional, aquí lo iniciamos desactivado
-    # overlay_process = multiprocessing.Process(target=run_overlay, daemon=True)
-    # overlay_process.start()
-    # overlay_active = True
 
     os.system('cls' if os.name == 'nt' else 'clear')
     os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = '1'
