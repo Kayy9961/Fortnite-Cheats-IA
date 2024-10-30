@@ -2,6 +2,8 @@ No me hago responsable si puede llegar a ser banebale o de cualquier cosa, si lo
 
 NO DEBERIA DE SER BANEABLE YA QUE UTILIZA IA Y NO INYECTA NADA PERO DE TODAS FORMAS, QUIEN LO UTILICE LO HACE SABIENDO LOS RIESGOS
 
+https://github.com/user-attachments/assets/593f08d1-41d1-436a-a361-d2e780c7754e
+
 ![image](https://github.com/user-attachments/assets/075736e6-0314-4154-a907-efce231db19c)
 
 1. Instala [Python](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
