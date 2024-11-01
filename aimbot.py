@@ -246,7 +246,6 @@ def setup():
         json.dump(sensitivity_settings, outfile)
     print("[INFO] Configuración de sensibilidad completa")
 
-# Variables globales para gestionar el overlay
 overlay_process = None
 overlay_active = False
 
